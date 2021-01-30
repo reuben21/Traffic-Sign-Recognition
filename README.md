@@ -9,3 +9,6 @@ Participants have to develop a computer vision model with the aim to analyze var
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/18harsh/RecogniSign-Techfest-Competition/blob/main/RecogniSign.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+# Image
+!<>(https://github.com/18harsh/RecogniSign-Techfest-Competition/blob/main/2021-01-30.png)
